@@ -8,7 +8,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 🔰 Beginner 
 - [Day 1:](https://github.com/patelpooja1998/100-days-of-code-python/tree/main/Day01) Working with Variables in Python to Manage Data
-- [Day 2:](https://github.com/phillipai/100-days-of-code-python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
+- [Day 2:](https://github.com/patelpooja1998/100-days-of-code-python/tree/main/Day02) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/phillipai/100-days-of-code-python/tree/main/day03) Control Flow and Logical Operators
 - [Day 4:](https://github.com/phillipai/100-days-of-code-python/tree/main/day04) Randomisation and Python Lists
 - [Day 5:](https://github.com/phillipai/100-days-of-code-python/tree/main/day05) Python Loops
