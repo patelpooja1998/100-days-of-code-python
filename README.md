@@ -3,7 +3,6 @@
 
 ![100-days-of-code](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)
 
-Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 
 ## 🔰 Beginner 
